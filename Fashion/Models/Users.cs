@@ -10,12 +10,12 @@ namespace Fashion.Models
 
         public int ID;
         public string Email { get; set; }
-        public string password { get; set; }
+        public string Password { get; set; }
         
 
 
 
-        public static bool log(string Email, string password)
+        public static bool Log(string Email, string password)
         {
             if (Email == "admin@admin" && password == "admin")
                 return true;
