@@ -11507,11 +11507,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Clara Samy\\Source\\Repos\\Fashion\\Fashion\\Fashion.csproj",
+      "projectUniqueName": "C:\\Users\\Clara Samy\\Documents\\GitHub\\Fashion\\Fashion\\Fashion.csproj",
       "projectName": "Fashion",
-      "projectPath": "C:\\Users\\Clara Samy\\Source\\Repos\\Fashion\\Fashion\\Fashion.csproj",
+      "projectPath": "C:\\Users\\Clara Samy\\Documents\\GitHub\\Fashion\\Fashion\\Fashion.csproj",
       "packagesPath": "C:\\Users\\Clara Samy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Clara Samy\\Source\\Repos\\Fashion\\Fashion\\obj\\",
+      "outputPath": "C:\\Users\\Clara Samy\\Documents\\GitHub\\Fashion\\Fashion\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
