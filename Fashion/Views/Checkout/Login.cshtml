@@ -1,0 +1,19 @@
+﻿@model Fashion.Models.Users
+@{
+    ViewData["Title"] = "Login";
+
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<body>
+    <p>Sign Up for the <strong>NEWSLETTER</strong></p>
+    <form method="post" asp-controller="Checkout" asp-action="log">
+        <input class="input" asp-for="Email" type="email" placeholder="Enter Your Email">
+        <input class="input" asp-for="password" type="password" placeholder="Enter Your Password">
+        <input type="submit" value="login">
+    </form>
+</body>
+</html>
+

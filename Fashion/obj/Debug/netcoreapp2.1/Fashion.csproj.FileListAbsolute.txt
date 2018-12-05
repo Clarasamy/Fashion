@@ -1,0 +1,6 @@
+C:\Users\Clara Samy\Documents\GitHub\Fashion\Fashion\obj\Debug\netcoreapp2.1\Fashion.csprojAssemblyReference.cache
+C:\Users\Clara Samy\Documents\GitHub\Fashion\Fashion\obj\Debug\netcoreapp2.1\Fashion.csproj.CoreCompileInputs.cache
+C:\Users\Clara Samy\Documents\GitHub\Fashion\Fashion\obj\Debug\netcoreapp2.1\Fashion.RazorAssemblyInfo.cache
+C:\Users\Clara Samy\Documents\GitHub\Fashion\Fashion\obj\Debug\netcoreapp2.1\Fashion.RazorAssemblyInfo.cs
+C:\Users\Clara Samy\Documents\GitHub\Fashion\Fashion\obj\Debug\netcoreapp2.1\Fashion.AssemblyInfoInputs.cache
+C:\Users\Clara Samy\Documents\GitHub\Fashion\Fashion\obj\Debug\netcoreapp2.1\Fashion.AssemblyInfo.cs

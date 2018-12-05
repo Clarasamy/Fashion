@@ -8,11 +8,11 @@ namespace karl.Controllers
 {
     public class IndexController : Controller
     {
-        public IActionResult Index()
+        public IActionResult Login()
         {
             return View();
         }
-        public IActionResult checkout()
+        public IActionResult Checkout()
         {
             return View();
         }
